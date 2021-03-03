@@ -1,0 +1,11 @@
+{
+  "name": "sanitation-app-2020-3-Spanish-ios",
+  "version": "1.0.0",
+  "description": "Sanitation App 2020 3 - Spanish - IOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Food Safety CTS",
+  "license": "ISC"
+}
